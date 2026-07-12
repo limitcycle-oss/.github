@@ -1,6 +1,6 @@
 # limitcycle
 
-limitcycle is the independent software effort of Ferhat Fidan — founder, soledeveloper, and inventor.
+limitcycle is the independent software effort of Ferhat Fidan — founder, sole developer, and inventor.
 
 The name comes from dynamical systems: a limit cycle is a closed orbit that a system settles into and sustains on its own.
 
